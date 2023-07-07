@@ -2,64 +2,39 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hyojeong Lee
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th October 1998
     - name: Languages
-      value: English, German
+      value: Korean, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Artificial Intelligence
+      institution: Ulsan National Instite of Science and Technology, Ulsan, South Korea
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - 'Advisor: <a href="https://sites.google.com/view/kimki" style="color:black">KwangIn Kim</a>'
+        - 'Thesis: CAM-PAR: Class Activation Map Guided Feature Disentanglement for Pedestrian Attribute Recognition'
+    - title: Bachelor of Software
+      institution: Sahmyook University, Seoul, South Korea
+      year: 2017-2021
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Teaching Assistant
+      institution: Ulsan National Instite of Science and Technology, Ulsan, South Korea
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advanced Machine Learning Topics.
+
+    - title: Research Intern
+      institution: Daegu Gyeongbuk Institute of Science and Technology, Daegu, South Korea
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Object localizing using hyper-dimensional computing
 
 - title: Open Source Projects
   type: time_table
@@ -82,14 +57,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Vision
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Pedestrian Attribute Recognition
+        - Weakly Supervised Semantic Segmentation
+    - title: Recommender Systems
       items:
-        - Description 1.
-        - Description 2.
+        - Collaborative Filtering
 
 - title: Other Interests
   type: list
