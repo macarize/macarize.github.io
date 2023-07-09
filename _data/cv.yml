@@ -46,13 +46,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - title: Hanium Competition
+      institution: The Federation of Korean Information Industries
+      year: 2020
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Honorable mention
+        - Home training application using pose-estimation 
+    - title: 
+      institution: Sahmyook University
+      year: 2020
+      items: SU-Start Up
+        - Excellence Award
+        - Home training application using pose-estimation with social network
 
 - title: Academic Interests
   type: nested_list
@@ -65,7 +70,7 @@
       items:
         - Collaborative Filtering
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
