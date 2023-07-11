@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://sites.google.com/view/mlvlab/">MLV Group</a>, MS in Artificial Intelligence from UNIST.
+subtitle: <a href="https://sites.google.com/view/mlvlab/">MLV Group</a><br>MS in Artificial Intelligence from UNIST
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: >
@@ -18,4 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-안녕하세요! 저는 울산과학기술원(UNIST) 인공지능대학원에서 석사 과정을 지나고 있으며, 김광인 교수님께 연구 지도를 받았습니다. 저의 연구 분야는 Object Detection, Weakly Supervised Semantic Segmentation(WSSS)입니다.
+Hello! I'm currently a MS candidate in artificial intelligence at the Ulsan National Institute of Science and Technology(UNIST) under Dr. KwangIn Kim.
+
+My current researh is in the domain of computer vision, specifically in attribute recognition which is a sub-task of multi-label classification.
+My masters thesis is about constructing robust pedestrian attribute recognition model via feature disentanglement using class activation map.
+Also, I have expertise on weakly supervised semantic segmentation(WSSS) and collaborative filtering.
+
+Before I joined UNIST, I took an internship at Daegu Gyeongbuk Institute of Science and Technology(DGIST), studying hyper-dimentional computing under Dr. Yeseong Kim.
+During the research internship, I proposed novel object localization methods based on adversarial erasing using HD computing. 
+
+I'm open to other research topics and opportunities, so feel free to contant me via email if you are interested in my research or just want to make conversation with me!
