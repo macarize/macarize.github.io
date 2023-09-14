@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - macarize
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - macarize/KETI_attr
+  - macarize/CAM-PAR
+  - macarize/VoiceHD
+  - macarize/Container-OCR-with-level-correction
+  - macarize/CRP-Container-Relocation-Problem-
+  - macarize/Intelligent_hair_analysis_system
+  - macarize/ML_HousePricingWeb
