@@ -58,6 +58,14 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <!-- Repo -->
+          <h2><a href="{{ '/repositories/' | relative_url }}" style="color: inherit;">Repositories</a></h2>
+          <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+            {% for repo in site.data.repositories_h.github_repos %}
+              {% include repository/repo.html repository=repo %}
+            {% endfor %}
+          </div>
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
